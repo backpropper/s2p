@@ -16,7 +16,7 @@ Dependencies
 
 Downloading features for IBR game
 -------
-The preprocssed feature files for MS COCO images/captions can be downloaded from [here](https://www.google.com). The image features are obtained through a pretrained Resnet-50 model where each feature is of dimension 2048.
+The preprocssed feature files for MS COCO images/captions can be downloaded from [here](https://drive.google.com/file/d/13m3SOqJkei8ozRwFa2y4cn3WzRqjpx5S/view?usp=sharing). The image features are obtained through a pretrained Resnet-50 model where each feature is of dimension 2048.
 Extract the zip file and place the folder inside the `ibr_game` folder.
 
 
